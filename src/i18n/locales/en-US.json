@@ -1,0 +1,12 @@
+{
+  "error": {
+    "unauthorized": "Login expired, please log in again",
+    "forbidden": "Access denied",
+    "notFound": "Resource not found",
+    "serverError": "Internal server error",
+    "param": "Invalid parameters",
+    "validation": "Validation failed",
+    "tokenExpired": "Session expired",
+    "business": "Business operation failed"
+  }
+}

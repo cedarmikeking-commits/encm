@@ -1,0 +1,12 @@
+{
+  "error": {
+    "unauthorized": "登录已过期，请重新登录",
+    "forbidden": "没有访问权限",
+    "notFound": "请求的资源不存在",
+    "serverError": "服务器内部错误",
+    "param": "参数错误，请检查输入",
+    "validation": "数据校验失败",
+    "tokenExpired": "登录状态已失效",
+    "business": "业务处理失败"
+  }
+}
